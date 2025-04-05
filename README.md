@@ -1,2 +1,2 @@
-# Stack-in-C-
-this is my first Git Repository.
+# Stack in C++
+This is my first Git Repository.
